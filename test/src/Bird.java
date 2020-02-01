@@ -47,7 +47,7 @@ abstract class Animal {
 
 	// concrete method
 	void label() {
-		System.out.println("Animal's data:");
+		System.out.println(" data:");
 }}
 
 class TestEagle {
